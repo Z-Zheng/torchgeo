@@ -90,6 +90,7 @@ hardcoded_coverage = {
     'TerraTorch': 55,
     'GeoDeep': 0,
     'GeoTessera': 15,
+    'torchange': 0,
 }
 name_to_pypi = {
     'SPy': 'spectral',
