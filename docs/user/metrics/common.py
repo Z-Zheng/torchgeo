@@ -122,5 +122,5 @@ name_to_conda = {
     'samgeo': 'segment-geospatial',
     'GeoAI': 'geoai',
     'TerraTorch': 'terratorch',
-    'torchange': 'torchange'
+    'torchange': 'torchange',
 }
