@@ -109,7 +109,7 @@ name_to_pypi = {
     'TerraTorch': 'terratorch',
     'GeoDeep': 'geodeep',
     'GeoTessera': 'geotessera',
-    'torchange': 'torchange'
+    'torchange': 'torchange',
 }
 name_to_cran = {'SITS': 'sits'}
 name_to_conda = {
